@@ -17,7 +17,7 @@ Any web-site that fronts a repository of documents can advertise that its docume
 
 It is not necessary for the search engines forming this Federation to support OpenSearch. In this initial release a plug-in is provided to enable mulitple [Elasticsearch](https://www.elastic.co/products/elasticsearch) repositories to be searched (which has its own proprietary query/response syntax). Another plug-in will be provided soon to interface with any site that supports the OpenSearch API.  It is hoped that other developers will develop plug-ins for other search engines. Guidance for plug-in developers is provided on the project's wiki site.
 
-The Open Federated Search REST service can provide results in RSS, JSON or HTML.  The RSS results are compliant with the OpenSearch specification. The full API of the OFS REST service is provided on this [project's wiki site](https://gihub.com/dstl/OFS/wiki/RES-API).
+The Open Federated Search REST service can provide results in RSS, JSON or HTML.  The RSS results are compliant with the OpenSearch specification. The full API of the OFS REST service is provided on this [project's wiki site](https://github.com/dstl/Open-Federated-Search/wiki).
 
 
 
@@ -228,11 +228,11 @@ If you are setting up a new Elasticsearch repository you can insert your choice 
 
 ## 5. Project Wiki
 
-See the [project wiki](https://github.com/dstl/OFS/wiki)  for futher information including:
+See the [project wiki](https://github.com/dstl/Open-Federated-Search/wiki)  for futher information including:
 
-- [The REST service API](https://github.com/dstl/OFS/wiki/REST-API).
-- [The OpenSearch Description Document](https://github.com/dstl/OFS/OpenSearch-Description-Document)  (in XML).
-- [Guidance for developing plug-ins for other search engines](https://github.com/dstl/wiki/Development-Guide).
+- [The REST service API](https://github.com/dstl/Open-Federated-Search/wiki/OFS-REST-API).
+- [The OpenSearch Description Document](https://github.com/dstl/Open-Federated-Search/wiki/OFS-OpenSearch-Description-Document)  (in XML).
+- [Guidance for developing plug-ins for other search engines](https://github.com/dstl/Open-Federated-Search/wiki/Developers-Guide).
 
 
 
